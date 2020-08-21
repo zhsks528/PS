@@ -1,3 +1,5 @@
-# LeetCode의 알고리즘 문제 및 정리
+## 알고리즘 문제 풀기
 
-- LeetCode 주소 : https://leetcode.com/problemset/all/
+- 백준알고리즘: https://www.acmicpc.net/
+- LeetCode: https://leetcode.com/problemset/all/
+- 프로그래머스: https://programmers.co.kr/
