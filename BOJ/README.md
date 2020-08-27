@@ -57,14 +57,14 @@
 
 #### BFS/DFS
 
-- [1012 유기농 배추]([https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1012.%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.md](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1012. 유기농 배추.md))  `S2` `👀`
-- [2178 미로 탐색]([https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2178.%20%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.md](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2178. 미로 탐색.md))  `S1` `👀`
-- [2206 벽 부수고 이동하기]([https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2206.%20%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.md](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2206. 벽 부수고 이동하기.md)) `G4` `👀`
-- [2644 촌수 계산]([https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2644.%20%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0.md](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2644. 촌수계산.md))  `S2` `👀`
-- [2667 단지번호붙이기]([https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2667.%20%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.md](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2667. 단지번호붙이기.md))  `S1` `👀`
-- [3035 탈출]([https://github.com/zhsks528/PS/blob/master/BOJ/3001-4000/3055.%20%ED%83%88%EC%B6%9C.md](https://github.com/zhsks528/PS/blob/master/BOJ/3001-4000/3055. 탈출.md)) `G4` `👀`
-- [4963 섬의 개수]([https://github.com/zhsks528/PS/blob/master/BOJ/4001-5000/4963.%20%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98.md](https://github.com/zhsks528/PS/blob/master/BOJ/4001-5000/4963. 섬의 개수.md))  `S2` `👀`
-- [7562 나이트의 이동]([https://github.com/zhsks528/PS/blob/master/BOJ/7001-8000/7562.%20%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.md](https://github.com/zhsks528/PS/blob/master/BOJ/7001-8000/7562. 나이트의 이동.md))  `S2` `👀`
+- 1012 유기농 배추  `S2` `👀`
+- 2178 미로 탐색  `S1` `👀`
+- 2206 벽 부수고 이동하기 `G4` `👀`
+- 2644 촌수 계산  `S2` `👀`
+- 2667 단지번호붙이기  `S1` `👀`
+- 3035 탈출 `G4` `👀`
+- 4963 섬의 개수  `S2` `👀`
+- 7562 나이트의 이동  `S2` `👀`
 - 7576 토마토  `S1` `👀`
 - 2606 바이러스  `S3` `👀`
 - 10026 적록색약  `G5` `👀`
@@ -100,6 +100,3 @@
 - 1647 도시 분할 계획  `G4`
 - 1922 네트워크 연결  `G4`
 - 4386 별자리 만들기  `G4`
-
-
-
