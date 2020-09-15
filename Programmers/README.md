@@ -11,6 +11,7 @@
 1. 완주하지 못한 선수 `Lv 1`
 2. 전화번호 목록 `Lv 2`
 3. 위장 `Lv 2` `👀`
+4. 베스트앨범 `Lv 3` `👀`
 
 #### 완전탐색 (Exhaustive Search)
 
@@ -29,6 +30,7 @@
 2. 큰 수 만들기 `Lv 2` `👀`
 3. 구명보트 `Lv 2` `👀`
 4. 단속카메라 `Lv 3` `👀`
+5. 섬 연결하기 `Lv 3`
 
 #### 정렬 (Sort)
 
@@ -54,6 +56,7 @@
 3. 2xn 타일링 `Lv 2` `👀`
 4. N으로 표현 `Lv 2` `👀`
 5. 정수 삼각형 `Lv 2` `👀`
+6. 등굣길 `Lv 3 ` `👀`
 
 #### 힙 (Heap)
 
@@ -123,6 +126,7 @@
 7. [2020 카카오 인턴십] 수식 최대화 `Lv 2` `👀`
 8. [2018 KAKAO BLIND RECRUITMENT] 압축 `Lv 2` `👀`
 9. [2018 KAKAO BLIND RECRUITMENT] 추석 트래픽 `Lv 3` `👀`
+10. [2020 KAKAO BLIND RECRUITMENT] 자물쇠와 열쇠 `Lv 3` `👀`
 
 #### Summer/Winter Coding
 
