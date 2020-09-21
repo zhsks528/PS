@@ -8,9 +8,9 @@
 
 ### 목차
 
-- [수학](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%88%98%ED%95%99-42) [완전탐색](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%99%84%EC%A0%84-%ED%83%90%EC%83%89-4) [다이나믹 프로그래밍(DP)](https://github.com/zhsks528/PS/tree/master/BOJ#dp-26) [구현](https://github.com/zhsks528/PS/tree/master/BOJ#%EA%B5%AC%ED%98%84-33) [그리디](https://github.com/zhsks528/PS/tree/master/BOJ#%EA%B7%B8%EB%A6%AC%EB%94%94-13)
-- [문자열](https://github.com/zhsks528/PS/tree/master/BOJ#%EB%AC%B8%EC%9E%90%EC%97%B4-5) [BFS/DFS](https://github.com/zhsks528/PS/tree/master/BOJ#bfsdfs-30) [정렬](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%A0%95%EB%A0%AC-22) [스택](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%8A%A4%ED%83%9D-6) [큐](https://github.com/zhsks528/PS/tree/master/BOJ#%ED%81%90-3) [해시](https://github.com/zhsks528/PS/tree/master/BOJ#%ED%95%B4%EC%8B%9C-5)
-- [최소 스패닝 트리(MST)](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%B5%9C%EC%86%8C-%EC%8A%A4%ED%8C%A8%EB%8B%9D-%ED%8A%B8%EB%A6%AC-4) [백트래킹](https://github.com/zhsks528/PS/tree/master/BOJ#%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-5)
+- [수학](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%88%98%ED%95%99-42) [완전탐색](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%99%84%EC%A0%84-%ED%83%90%EC%83%89-4) [다이나믹 프로그래밍(DP)](https://github.com/zhsks528/PS/tree/master/BOJ#dp-28) [구현](https://github.com/zhsks528/PS/tree/master/BOJ#%EA%B5%AC%ED%98%84-33) [그리디](https://github.com/zhsks528/PS/tree/master/BOJ#%EA%B7%B8%EB%A6%AC%EB%94%94-13)
+- [문자열](https://github.com/zhsks528/PS/tree/master/BOJ#%EB%AC%B8%EC%9E%90%EC%97%B4-5) [BFS/DFS](https://github.com/zhsks528/PS/tree/master/BOJ#bfsdfs-32) [정렬](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%A0%95%EB%A0%AC-22) [스택](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%8A%A4%ED%83%9D-6) [큐](https://github.com/zhsks528/PS/tree/master/BOJ#%ED%81%90-3) [해시](https://github.com/zhsks528/PS/tree/master/BOJ#%ED%95%B4%EC%8B%9C-5)
+- [최소 스패닝 트리(MST)](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%B5%9C%EC%86%8C-%EC%8A%A4%ED%8C%A8%EB%8B%9D-%ED%8A%B8%EB%A6%AC-4) [백트래킹](https://github.com/zhsks528/PS/tree/master/BOJ#%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-6)
 
 #### 수학 (42)
 
@@ -64,7 +64,7 @@
 - 2309 일곱 난쟁이 `B2` `👀`
 - 2798 블랙잭 `B2`
 
-#### DP (26)
+#### DP (28)
 
 - 1003 피보나치수 `S3` `👀`
 - 1010 다리놓기 `S5` `👀`
@@ -73,6 +73,7 @@
 - 1904 01타일 `S3` `1`
 - 1915 가장 큰 정사각형 `G5` `👀` `1`
 - 1932 정수 삼각형 `S1` `👀`
+- 2156 포도주 시식 `S1`
 - 2167 2차원 배열의 합 `B2` `👀`
 - 2225 합분해 `G5` `1`
 - 2579 계단 오르기 `S3` `👀`
@@ -83,6 +84,7 @@
 - 9252 LCS 2 `G5` `👀` `1`
 - 9461 파도반 수열 `S3` `1`
 - 9625 BABBA `B1`
+- 10844 쉬운 계단 수 `S1` `👀`
 - 10870 피보나치 수 5 `B2`
 - 11055 가장 큰 증가 부분수열 정수 삼각형 `S2` `👀`
 - 11066 파일 합치기`G3` `👀`
@@ -93,7 +95,7 @@
 - 13301 타일 장식물 `B1`
 - 13699 점화식 `S4` `👀`
 
-#### 구현 (33)
+#### 구현 (35)
 
 - 1032 명령 프롬프트 `B1`
 - 1076 저항 `B2`
@@ -102,6 +104,7 @@
 - 1100 하얀 칸 `B2 `
 - 1157 단어 공부 `B4`
 - 1168 요세푸스 문제 2 `S3`
+- 1254 팰린드롬 만들기 `S1` `👀`
 - 1268 임시 반장 정하기 `B1` `👀`
 - 1316 그룹 단어 체커 `S5` `1`
 - 1357 뒤집힌 덧셈 `B1`
@@ -119,6 +122,7 @@
 - 5622 다이얼 `B2`
 - 7568 덩치 `S5` `👀` `1`
 - 9086 문자열 `B2`
+- 9933 민균이의 비밀번호 `B1`
 - 10157 자리배정 `S5` `👀` `1`
 - 10163 색종이 `B1` `👀`
 - 10798 세로읽기 `B1`
@@ -157,13 +161,14 @@
 
 - 1074 Z `S1` `👀`
 
-#### BFS/DFS (30)
+#### BFS/DFS (32)
 
 - 1012 유기농 배추 `S2` `👀`
 - 1389 케빈 베이컨의 6단계 법칙 `S1` `👀`
 - 1697 숨바꼭질 `S1`
 - 1939 중량제한 `G4` `👀` `1`
 - 1963 소수경로 `G5` `👀`
+- 1987 알파벳 `G1` `👀`
 - 2146 다리 만들기 `G3` `👀`
 - 2178 미로 탐색 `S1`
 - 2193 이친수 `S3` `👀` `1`
@@ -189,6 +194,7 @@
 - 16234 인구이동 `G5` `👀`
 - 16236 아기상어 `G5` `👀` `1`
 - 16768 Mooyo Mooyo `G4` `👀`
+- 16948 데스 나이트 `S1`
 
 #### 정렬 (22)
 
@@ -245,10 +251,15 @@
 - 1922 네트워크 연결 `G4` `1`
 - 4386 별자리 만들기 `G4` `1`
 
-#### 백트래킹 (5)
+#### 백트래킹 (6)
 
 - 9663 N-Queen `G5` `👀` `1`
 - 14889 스타트와 링크 `S3` `👀` `1`
 - 15649 N과 M (1) `S3` `1`
 - 15650 N과 M (2) `S3 ` `1`
 - 15651 N과 M (3) `S3` `1`
+- 14888 연산자 끼워넣기 `S1` `👀`
+
+#### 세그먼트 트리 (1)
+
+- 2357 최솟값과 최댓값 `P5` `👀`
