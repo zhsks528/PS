@@ -11,9 +11,9 @@
 ### 목차
 
 - [수학](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%88%98%ED%95%99-43) [완전탐색](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%99%84%EC%A0%84-%ED%83%90%EC%83%89-4) [다이나믹 프로그래밍(DP)](https://github.com/zhsks528/PS/tree/master/BOJ#dp-30) [구현](https://github.com/zhsks528/PS/tree/master/BOJ#%EA%B5%AC%ED%98%84-37) [그리디](https://github.com/zhsks528/PS/tree/master/BOJ#%EA%B7%B8%EB%A6%AC%EB%94%94-13)
-- [문자열](https://github.com/zhsks528/PS/tree/master/BOJ#%EB%AC%B8%EC%9E%90%EC%97%B4-5) [그래프 & BFS/DFS](https://github.com/zhsks528/PS/tree/master/BOJ#bfsdfs-37) [정렬](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%A0%95%EB%A0%AC-22) [스택](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%8A%A4%ED%83%9D-6) [큐](https://github.com/zhsks528/PS/tree/master/BOJ#%ED%81%90-4) [해시](https://github.com/zhsks528/PS/tree/master/BOJ#%ED%95%B4%EC%8B%9C-5)
-- [최소 스패닝 트리(MST)](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%B5%9C%EC%86%8C-%EC%8A%A4%ED%8C%A8%EB%8B%9D-%ED%8A%B8%EB%A6%AC-4) [백트래킹](https://github.com/zhsks528/PS/tree/master/BOJ#%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-6) [이분탐색]()
-- [세그먼트 트리]()
+- [문자열](https://github.com/zhsks528/PS/tree/master/BOJ#%EB%AC%B8%EC%9E%90%EC%97%B4-5) [그래프 & BFS/DFS](https://github.com/zhsks528/PS/tree/master/BOJ#%EA%B7%B8%EB%9E%98%ED%94%84--bfsdfs-37) [정렬](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%A0%95%EB%A0%AC-22) [스택](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%8A%A4%ED%83%9D-6) [큐](https://github.com/zhsks528/PS/tree/master/BOJ#%ED%81%90-4) [해시](https://github.com/zhsks528/PS/tree/master/BOJ#%ED%95%B4%EC%8B%9C-5)
+- [최소 스패닝 트리(MST)](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%B5%9C%EC%86%8C-%EC%8A%A4%ED%8C%A8%EB%8B%9D-%ED%8A%B8%EB%A6%AC-4) [백트래킹](https://github.com/zhsks528/PS/tree/master/BOJ#%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-6) [이분탐색](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%9D%B4%EB%B6%84-%ED%83%90%EC%83%89-1)
+- [세그먼트 트리](https://github.com/zhsks528/PS/tree/master/BOJ#%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8-%ED%8A%B8%EB%A6%AC-1)
 
 #### 수학 (43)
 
