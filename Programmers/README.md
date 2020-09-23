@@ -57,12 +57,15 @@
 4. N으로 표현 `Lv 2` `👀`
 5. 정수 삼각형 `Lv 2` `👀`
 6. 등굣길 `Lv 3 ` `👀`
+7. 거스름돈 `Lv 3 ` `👀`
+8. 멀리 뛰기 `Lv 3 `
 
 #### 힙 (Heap)
 
 1. 더 맵게 `Lv 2` `👀`
 2. 디스크 컨트롤러 `Lv 3` `👀`
 3. 이중우선순위 큐 `Lv 3`
+4. 야근 지수 `Lv 3 ` `👀`
 
 #### 그래프 (Graph)
 
@@ -114,6 +117,8 @@
 36. JadenCase 문자열 만들기 `Lv 2`
 37. 영어 끝말잇기 `Lv 2` `👀`
 38. 가장 긴 팰린드롬 `Lv 2` `👀`
+39. 줄 서는 방법 `Lv 3 ` `👀`
+40. 최고의 집합 `Lv 3 ` `👀`
 
 #### 카카오
 
@@ -125,8 +130,11 @@
 6. [2019 카카오 개발자 겨울 인턴십] 튜플 `Lv 2` `👀`
 7. [2020 카카오 인턴십] 수식 최대화 `Lv 2` `👀`
 8. [2018 KAKAO BLIND RECRUITMENT] 압축 `Lv 2` `👀`
-9. [2018 KAKAO BLIND RECRUITMENT] 추석 트래픽 `Lv 3` `👀`
-10. [2020 KAKAO BLIND RECRUITMENT] 자물쇠와 열쇠 `Lv 3` `👀`
+9. [2020 KAKAO BLIND RECRUITMENT] 문자열 압축 `Lv 2` `👀`
+10. [2020 KAKAO BLIND RECRUITMENT] 괄호 변환 `Lv 2` `👀`
+11. [2018 KAKAO BLIND RECRUITMENT] 추석 트래픽 `Lv 3` `👀`
+12. [2020 KAKAO BLIND RECRUITMENT] 자물쇠와 열쇠 `Lv 3` `👀`
+13. [2019 카카오 개발자 겨울 인턴십] 징검다리 건너기 `Lv 3` `👀`
 
 #### Summer/Winter Coding
 
