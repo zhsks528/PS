@@ -13,7 +13,7 @@
 1. [수학](https://github.com/zhsks528/PS/tree/master/BOJ#수학-43) [완전탐색](https://github.com/zhsks528/PS/tree/master/BOJ#완전-탐색-6) [이분탐색](https://github.com/zhsks528/PS/tree/master/BOJ#이분-탐색-2) [구현](https://github.com/zhsks528/PS/tree/master/BOJ#구현-40) [문자열](https://github.com/zhsks528/PS/tree/master/BOJ#문자열-6)
 2. [스택](https://github.com/zhsks528/PS/tree/master/BOJ#스택-6) [큐](https://github.com/zhsks528/PS/tree/master/BOJ#큐-4) [해시](https://github.com/zhsks528/PS/tree/master/BOJ#해시-5) [트리](https://github.com/zhsks528/PS/tree/master/BOJ#트리-1) [정렬](https://github.com/zhsks528/PS/tree/master/BOJ#정렬-22) [재귀](https://github.com/zhsks528/PS/tree/master/BOJ#재귀-1)
 3. [그리디](https://github.com/zhsks528/PS/tree/master/BOJ#그리디-13) [다이나믹 프로그래밍(DP)](https://github.com/zhsks528/PS/tree/master/BOJ#dp-35)
-4. [그래프 & BFS/DFS](https://github.com/zhsks528/PS/tree/master/BOJ#그래프--bfsdfs-40) [백트래킹](https://github.com/zhsks528/PS/tree/master/BOJ#백트래킹-6)
+4. [그래프 & BFS/DFS](https://github.com/zhsks528/PS/tree/master/BOJ#그래프--bfsdfs-40) [백트래킹](https://github.com/zhsks528/PS/tree/master/BOJ#백트래킹-6) [다익스트라](https://github.com/zhsks528/PS/tree/master/BOJ#다익스트라-4)
 5. [최소 스패닝 트리(MST)](https://github.com/zhsks528/PS/tree/master/BOJ#최소-스패닝-트리-4) [세그먼트 트리](https://github.com/zhsks528/PS/tree/master/BOJ#세그먼트-트리-1)
 
 #### 수학 (43)
@@ -326,6 +326,15 @@
 - 1647 도시 분할 계획 `G4` `1`
 - 1922 네트워크 연결 `G4` `2`
 - 4386 별자리 만들기 `G4` `1`
+
+[[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
+
+#### 다익스트라 (4)
+
+- [1238 파티](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1238.%20%ED%8C%8C%ED%8B%B0.md) `G3`
+- [1753 최단경로](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1753.%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.md) `G5`
+- [4485 녹색 옷 입은 애가 젤다지?](https://github.com/zhsks528/PS/blob/master/BOJ/4001-5000/4485.%20%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80.md) `G4`
+- [11779 최소비용 구하기 2](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11779.%20%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%202.md) `G3`
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
