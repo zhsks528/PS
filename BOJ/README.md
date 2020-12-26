@@ -192,7 +192,7 @@
 - [10814 나이순 정렬](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10814.%20%EB%82%98%EC%9D%B4%EC%88%9C%EC%A0%95%EB%A0%AC.md) `S5` `1`
 - [10867 중복 빼고 정렬하기](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10867.%20%EC%A4%91%EB%B3%B5%20%EB%B9%BC%EA%B3%A0%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md) `S5` `1`
 - [11004 K번째 수](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11004.%20K%20%EB%B2%88%EC%A7%B8%20%EC%88%98.md) `S5` `1`
-- [11557 Yangjojang of The Year](https://github.com/zhsks528/PS/edit/master/BOJ/11001-12000/11557.%20Yangjojang%20of%20The%20Year.md) `S5`
+- [11557 Yangjojang of The Year](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11557.%20Yangjojang%20of%20The%20Year.md) `S5`
 - [11650 좌표 정렬하기](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11650.%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md) `S5` `1`
 - [11651 좌표 정렬하기 2](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11651.%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.md) `S5` `1`
 - [11728 배열 합치기](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11728.%20%EB%B0%B0%EC%97%B4%20%ED%95%A9%EC%B9%98%EA%B8%B0.md) `S5` `👀` `1`
