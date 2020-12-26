@@ -174,29 +174,29 @@
 
 #### 정렬 (23)
 
-- 1015 수열 정렬 `S4` `👀`
-- 1026 보물 `S4` `👀`
-- 1083 소트 `G3` `👀`
+- [1015 수열 정렬](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1015.%20%EC%88%98%EC%97%B4%20%EC%A0%95%EB%A0%AC.md) `S4` `👀`
+- [1026 보물](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1026.%20%EB%B3%B4%EB%AC%BC.md) `S4` `👀`
+- [1083 소트](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1083.%20%EC%86%8C%ED%8A%B8.md) `G3` `👀`
 - 1181 단어 정렬 `S5` `1`
-- 1427 소트인사이드 `S5` `1`
-- 1940 주몽 `S4`
-- 2230 수 고르기 `G5` `👀` `1`
-- 2693 N번째 큰 수 `S5` `1`
-- 2750 수 정렬하기 `S5` `1`
-- 2751 수 정렬하기 2 `S5` `1`
-- 2822 점수 계산 `S5` `1`
-- 3273 두 수의 합 `S4` `👀`
-- 5635 생일 `S5`
-- 8979 올림픽 `S5` `👀` `1`
-- 10800 컬러볼 `G3` `★` `👀`
-- 10814 나이순 정렬 `S5` `1`
-- 10867 중복 빼고 정렬하기 `S5` `1`
-- 11004 K번째 수 `S5` `1`
-- 11557 Yangjojang of The Year `S5`
-- 11650 좌표 정렬하기 `S5` `1`
-- 11650 좌표 정렬하기 2 `S5` `1`
-- 11728 배열 합치기 `S5` `👀` `1`
-- 11931 수 정렬하기 4 `S5` `1`
+- [1427 소트인사이드](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1427.%20%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.md) `S5` `1`
+- [1940 주몽](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1940.%20%EC%A3%BC%EB%AA%BD.md) `S4`
+- [2230 수 고르기](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2230.%20%EC%88%98%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.md) `G5` `👀` `1`
+- [2693 N번째 큰 수](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2693.%20N%EB%B2%88%EC%A7%B8%20%ED%81%B0%20%EC%88%98.md) `S5` `1`
+- [2750 수 정렬하기](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2750.%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md) `S5` `1`
+- [2751 수 정렬하기 2](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2751.%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.md) `S5` `1`
+- [2822 점수 계산](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2751.%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.md) `S5` `1`
+- [3273 두 수의 합](https://github.com/zhsks528/PS/blob/master/BOJ/3001-4000/3273.%20%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9.md) `S4` `👀`
+- [5635 생일](https://github.com/zhsks528/PS/blob/master/BOJ/5001-6000/5635.%20%EC%83%9D%EC%9D%BC.md) `S5`
+- [8979 올림픽](https://github.com/zhsks528/PS/blob/master/BOJ/8001-9000/8979.%20%EC%98%AC%EB%A6%BC%ED%94%BD.md) `S5` `👀` `1`
+- [10800 컬러볼](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10800.%20%EC%BB%AC%EB%9F%AC%EB%B3%BC.md) `G3` `★` `👀`
+- [10814 나이순 정렬](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10814.%20%EB%82%98%EC%9D%B4%EC%88%9C%EC%A0%95%EB%A0%AC.md) `S5` `1`
+- [10867 중복 빼고 정렬하기](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10867.%20%EC%A4%91%EB%B3%B5%20%EB%B9%BC%EA%B3%A0%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md) `S5` `1`
+- [11004 K번째 수](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11004.%20K%20%EB%B2%88%EC%A7%B8%20%EC%88%98.md) `S5` `1`
+- [11557 Yangjojang of The Year](https://github.com/zhsks528/PS/edit/master/BOJ/11001-12000/11557.%20Yangjojang%20of%20The%20Year.md) `S5`
+- [11650 좌표 정렬하기](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11650.%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md) `S5` `1`
+- [11651 좌표 정렬하기 2](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11651.%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.md) `S5` `1`
+- [11728 배열 합치기](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11728.%20%EB%B0%B0%EC%97%B4%20%ED%95%A9%EC%B9%98%EA%B8%B0.md) `S5` `👀` `1`
+- [11931 수 정렬하기 4](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11931.%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%204.md) `S5` `1`
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
@@ -258,7 +258,7 @@
 - 4796 캠핑 `S5` `1`
 - 5585 거스름돈 `B2`
 - 10162 전자레인지 `B4`
-- 11399 ATM `S3`
+- [11399 ATM](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11399.%20ATM.md) `S3`
 - 11047 동전 0 `S1` `1`
 - 17224 APC는 왜 서브태스크 대회가 되었을까? `B1`
 
