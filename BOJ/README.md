@@ -10,8 +10,8 @@
 
 ### 목차
 
-1. [수학](https://github.com/zhsks528/PS/tree/master/BOJ#수학-43) [완전탐색](https://github.com/zhsks528/PS/tree/master/BOJ#완전-탐색-6) [이분탐색](https://github.com/zhsks528/PS/tree/master/BOJ#이분-탐색-2) [구현](https://github.com/zhsks528/PS/tree/master/BOJ#구현-40) [문자열](https://github.com/zhsks528/PS/tree/master/BOJ#문자열-6)
-2. [스택](https://github.com/zhsks528/PS/tree/master/BOJ#스택-6) [큐](https://github.com/zhsks528/PS/tree/master/BOJ#큐-4) [해시](https://github.com/zhsks528/PS/tree/master/BOJ#해시-5) [트리](https://github.com/zhsks528/PS/tree/master/BOJ#트리-1) [정렬](https://github.com/zhsks528/PS/tree/master/BOJ#정렬-22) [재귀](https://github.com/zhsks528/PS/tree/master/BOJ#재귀-1)
+1. [수학](https://github.com/zhsks528/PS/tree/master/BOJ#수학-43) [완전탐색](https://github.com/zhsks528/PS/tree/master/BOJ#완전-탐색-6) [이분탐색](https://github.com/zhsks528/PS/tree/master/BOJ#이분-탐색-5) [구현](https://github.com/zhsks528/PS/tree/master/BOJ#구현-40) [문자열](https://github.com/zhsks528/PS/tree/master/BOJ#문자열-7)
+2. [스택](https://github.com/zhsks528/PS/tree/master/BOJ#스택-6) [큐](https://github.com/zhsks528/PS/tree/master/BOJ#큐-4) [해시](https://github.com/zhsks528/PS/tree/master/BOJ#해시-4) [트리](https://github.com/zhsks528/PS/tree/master/BOJ#트리-1) [정렬](https://github.com/zhsks528/PS/tree/master/BOJ#정렬-22) [재귀](https://github.com/zhsks528/PS/tree/master/BOJ#재귀-1)
 3. [그리디](https://github.com/zhsks528/PS/tree/master/BOJ#그리디-13) [다이나믹 프로그래밍(DP)](https://github.com/zhsks528/PS/tree/master/BOJ#dp-35)
 4. [그래프 & BFS/DFS](https://github.com/zhsks528/PS/tree/master/BOJ#그래프--bfsdfs-40) [백트래킹](https://github.com/zhsks528/PS/tree/master/BOJ#백트래킹-6) [다익스트라](https://github.com/zhsks528/PS/tree/master/BOJ#다익스트라-4)
 5. [최소 스패닝 트리(MST)](https://github.com/zhsks528/PS/tree/master/BOJ#최소-스패닝-트리-4) [세그먼트 트리](https://github.com/zhsks528/PS/tree/master/BOJ#세그먼트-트리-1)
@@ -75,10 +75,13 @@
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
-#### 이분 탐색 (2)
+#### 이분 탐색 (5)
 
-- 1300 K번째 수 `G4` `👀`
-- 2805 나무 자르기 `S3`
+- [1300 K번째 수](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1300.%20K%EB%B2%88%EC%A7%B8%20%EC%88%98.md) `G4` `👀`
+- [1789 수들의 합](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1789.%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9.md) `S5`
+- [2512 예산](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2512.%20%EC%98%88%EC%82%B0.md) `S3`
+- [2805 나무 자르기](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2805.%20%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.md) `S3`
+- [10816 숫자 카드 2](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10816.%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%202.md) `S4`
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
@@ -127,9 +130,10 @@
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
-#### 문자열 (6)
+#### 문자열 (7)
 
 - 1120 문자열 `S4` `👀`
+- [1764 듣보잡](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1764.%20%EB%93%A3%EB%B3%B4%EC%9E%A1.md) `S4`
 - 2902 KMP는 왜 KMP일까? `B2` `👀`
 - 2941 크로아티아 알파벳 `S5` `1`
 - 5052 전화번호 목록 `G4`
@@ -158,9 +162,8 @@
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
-#### 해시 (5)
+#### 해시 (4)
 
-- 1764 듣보잡 `S4`
 - 1920 수 찾기 `S4` `1`
 - 7453 합이 0인 네 정수 `G2` `👀`
 - 7785 회사에 있는 사람 `S5` `👀` `1`
