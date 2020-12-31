@@ -6,15 +6,13 @@
 
 `★` : 대회
 
-`number` : 반복한 횟수
-
 ### 목차
 
 1. [수학(43)](https://github.com/zhsks528/PS/tree/master/BOJ#수학-43) [문자열(7)](https://github.com/zhsks528/PS/tree/master/BOJ#문자열-7) [재귀(1)](https://github.com/zhsks528/PS/tree/master/BOJ#재귀-1) [구현(41)](https://github.com/zhsks528/PS/tree/master/BOJ#구현-41)
 2. [스택(6)](https://github.com/zhsks528/PS/tree/master/BOJ#스택-6) [큐(4)](https://github.com/zhsks528/PS/tree/master/BOJ#큐-4) [해시(3)](https://github.com/zhsks528/PS/tree/master/BOJ#해시-3) [트리(1)](https://github.com/zhsks528/PS/tree/master/BOJ#트리-1) [정렬(24)](https://github.com/zhsks528/PS/tree/master/BOJ#정렬-24) 
 3. [완전탐색(6)](https://github.com/zhsks528/PS/tree/master/BOJ#완전-탐색-6) [이분탐색(9)](https://github.com/zhsks528/PS/tree/master/BOJ#이분-탐색-9) 
 4. [그리디(13)](https://github.com/zhsks528/PS/tree/master/BOJ#그리디-13) [DP(35)](https://github.com/zhsks528/PS/tree/master/BOJ#dp-35) [백트래킹(6)](https://github.com/zhsks528/PS/tree/master/BOJ#백트래킹-6) 
-5. [그래프 & BFS/DFS(40)](https://github.com/zhsks528/PS/tree/master/BOJ#그래프--bfsdfs-40) [다익스트라(6)](https://github.com/zhsks528/PS/tree/master/BOJ#다익스트라-6)
+5. [그래프 & BFS/DFS(40)](https://github.com/zhsks528/PS/tree/master/BOJ#그래프--bfsdfs-40) [다익스트라(7)](https://github.com/zhsks528/PS/tree/master/BOJ#다익스트라-7)
 6. [최소 스패닝 트리(MST)(4)](https://github.com/zhsks528/PS/tree/master/BOJ#최소-스패닝-트리-4) [세그먼트 트리(1)](https://github.com/zhsks528/PS/tree/master/BOJ#세그먼트-트리-1)
 
 #### 수학 (43)
@@ -331,13 +329,14 @@
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
-#### 다익스트라 (6)
+#### 다익스트라 (7)
 
 - [1238 파티](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1238.%20%ED%8C%8C%ED%8B%B0.md) `G3`
 - [1504 특정한 최단 경로](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1504.%20%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.md) `G4` 
 - [1753 최단경로](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1753.%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.md) `G5`
 - [1854 K번째 최단경로 찾기](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1854.%20K%EB%B2%88%EC%A7%B8%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.md)  `P5`
 - [4485 녹색 옷 입은 애가 젤다지?](https://github.com/zhsks528/PS/blob/master/BOJ/4001-5000/4485.%20%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80.md) `G4`
+- [10282 해킹](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10282.%20%ED%95%B4%ED%82%B9.md) `G4`
 - [11779 최소비용 구하기 2](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11779.%20%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%202.md) `G3`
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
