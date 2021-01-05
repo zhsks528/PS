@@ -9,10 +9,10 @@
 ### 목차
 
 1. [수학(43)](https://github.com/zhsks528/PS/tree/master/BOJ#수학-43) [문자열(15)](https://github.com/zhsks528/PS/tree/master/BOJ#문자열-15) [재귀(4)](https://github.com/zhsks528/PS/tree/master/BOJ#재귀-4) [구현 & 시뮬레이션(41)](https://github.com/zhsks528/PS/tree/master/BOJ#%EA%B5%AC%ED%98%84--%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98-41)
-2. [스택(11)](https://github.com/zhsks528/PS/tree/master/BOJ#스택-11) [큐(4)](https://github.com/zhsks528/PS/tree/master/BOJ#큐-4) [해시(3)](https://github.com/zhsks528/PS/tree/master/BOJ#해시-3) [트리(2)](https://github.com/zhsks528/PS/tree/master/BOJ#트리-2) [정렬(24)](https://github.com/zhsks528/PS/tree/master/BOJ#정렬-24) 
-3. [완전탐색(5)](https://github.com/zhsks528/PS/tree/master/BOJ#완전-탐색-5) [이분탐색(9)](https://github.com/zhsks528/PS/tree/master/BOJ#이분-탐색-9) 
-4. [그리디(13)](https://github.com/zhsks528/PS/tree/master/BOJ#그리디-13) [DP(36)](https://github.com/zhsks528/PS/tree/master/BOJ#dp-36) [백트래킹(6)](https://github.com/zhsks528/PS/tree/master/BOJ#백트래킹-6) 
-5. [그래프 & BFS/DFS(41)](https://github.com/zhsks528/PS/tree/master/BOJ#그래프--bfsdfs-41) [다익스트라(9)](https://github.com/zhsks528/PS/tree/master/BOJ#다익스트라-9)
+2. [스택(11)](https://github.com/zhsks528/PS/tree/master/BOJ#스택-11) [큐(3)](https://github.com/zhsks528/PS/tree/master/BOJ#큐-3) [해시(3)](https://github.com/zhsks528/PS/tree/master/BOJ#해시-3) [트리(2)](https://github.com/zhsks528/PS/tree/master/BOJ#트리-2) [정렬(24)](https://github.com/zhsks528/PS/tree/master/BOJ#정렬-24) 
+3. [완전탐색(6)](https://github.com/zhsks528/PS/tree/master/BOJ#완전-탐색-6) [이분탐색(9)](https://github.com/zhsks528/PS/tree/master/BOJ#이분-탐색-9) 
+4. [그리디(14)](https://github.com/zhsks528/PS/tree/master/BOJ#그리디-14) [DP(36)](https://github.com/zhsks528/PS/tree/master/BOJ#dp-36) [백트래킹(7)](https://github.com/zhsks528/PS/tree/master/BOJ#백트래킹-7) 
+5. [그래프 & BFS/DFS(44)](https://github.com/zhsks528/PS/tree/master/BOJ#그래프--bfsdfs-44) [다익스트라(9)](https://github.com/zhsks528/PS/tree/master/BOJ#다익스트라-9)
 6. [최소 스패닝 트리(MST)(4)](https://github.com/zhsks528/PS/tree/master/BOJ#최소-스패닝-트리-4) [세그먼트 트리(1)](https://github.com/zhsks528/PS/tree/master/BOJ#세그먼트-트리-1)
 
 ### 수학 (43)
@@ -104,50 +104,49 @@
 
 ### 구현 & 시뮬레이션 (41)
 #### Bronze (17)
-- 1032 명령 프롬프트 `B1`
-- 1076 저항 `B2`
-- 1100 하얀 칸 `B2`
-- 1157 단어 공부 `B4`
-- 1268 임시 반장 정하기 `B1` `👀`
-- 1357 뒤집힌 덧셈 `B1`
-- 1453 피시방 알바 `B1`
-- 1652 누울 자리를 찾아라 `B1`
-- 4673 셀프 넘버 `B1` `👀`
-- 5622 다이얼 `B2`
-- 9086 문자열 `B2`
-- 9933 민균이의 비밀번호 `B1`
-- 10163 색종이 `B1` `👀`
-- 10798 세로읽기 `B1`
-- 10804 카드 역배치 `B2` `👀` `★`
-- 10988 팰린드롬인지 확인하기 `B1`
-- 11586 지영 공주님의 마법 거울 `B1`
+- [1032 명령 프롬프트](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1032.%20%EB%AA%85%EB%A0%B9%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.md) `B1`
+- [1076 저항](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1076.%20%EC%A0%80%ED%95%AD.md) `B2`
+- [1100 하얀 칸](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1100.%20%ED%95%98%EC%96%80%20%EC%B9%B8.md) `B2`
+- [1157 단어 공부](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1157.%20%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80.md) `B4`
+- [1268 임시 반장 정하기](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1268.%20%EC%9E%84%EC%8B%9C%20%EB%B0%98%EC%9E%A5%20%EC%A0%95%ED%95%98%EA%B8%B0.md) `B1` `👀`
+- [1357 뒤집힌 덧셈](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1357.%20%EB%92%A4%EC%A7%91%ED%9E%8C%20%EB%8D%A7%EC%85%88.md) `B1`
+- [1453 피시방 알바](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1453.%20%ED%94%BC%EC%8B%9C%EB%B0%A9%20%EC%95%8C%EB%B0%94.md) `B1`
+- [1652 누울 자리를 찾아라](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1652.%20%EB%88%84%EC%9A%B8%20%EC%9E%90%EB%A6%AC%EB%A5%BC%20%EC%B0%BE%EC%95%84%EB%9D%BC.md) `B1`
+- [4673 셀프 넘버](https://github.com/zhsks528/PS/blob/master/BOJ/4001-5000/4673.%20%EC%85%80%ED%94%84%20%EB%84%98%EB%B2%84.md) `B1` `👀`
+- [5622 다이얼](https://github.com/zhsks528/PS/blob/master/BOJ/5001-6000/5622.%20%EB%8B%A4%EC%9D%B4%EC%96%BC.md) `B2`
+- [9086 문자열](https://github.com/zhsks528/PS/blob/master/BOJ/9001-10000/9086.%20%EB%AC%B8%EC%9E%90%EC%97%B4.md) `B2`
+- [9933 민균이의 비밀번호](https://github.com/zhsks528/PS/blob/master/BOJ/9001-10000/9933.%20%EB%AF%BC%EA%B7%A0%EC%9D%B4%EC%9D%98%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.md) `B1`
+- [10163 색종이](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10163.%20%EC%83%89%EC%A2%85%EC%9D%B4.md) `B1` `👀`
+- [10798 세로읽기](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10798.%20%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0.md) `B1`
+- [10804 카드 역배치](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10804.%20%EC%B9%B4%EB%93%9C%20%EC%97%AD%EB%B0%B0%EC%B9%98.md) `B2` `👀` `★`
+- [10988 팰린드롬인지 확인하기](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10988.%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%9D%B8%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md) `B1`
+- [11586 지영 공주님의 마법 거울](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11586.%20%EC%A7%80%EC%98%81%20%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%98%20%EB%A7%88%EB%B2%95%20%EA%B1%B0%EC%9A%B8.md) `B1`
 
-#### Silver (19)
-- 1018 체스판 다시 칠하기 `S5`
-- 1094 막대기 `S5`
-- 1168 요세푸스 문제 2 `S3`
-- 1254 팰린드롬 만들기 `S1` `👀`
-- 1436 영화감독 숌 `S5`
-- 1439 뒤집기 `S5` `👀`
-- 1475 방 번호 `S5`
+#### Silver (18)
+- [1018 체스판 다시 칠하기](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1018.%20%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0.md) `S5`
+- [1063 킹](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1063%20%ED%82%B9.md) `S5`
+- [1094 막대기](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1094.%20%EB%A7%89%EB%8C%80%EA%B8%B0.md) `S5`
+- [1168 요세푸스 문제 2](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1168.%20%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C%202.md) `S3`
+- [1254 팰린드롬 만들기](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1254.%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) `S1` `👀`
+- [1436 영화감독 숌](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1436.%20%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C.md) `S5`
+- [1475 방 번호](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1475.%20%EB%B0%A9%20%EB%B2%88%ED%98%B8.md) `S5`
 - [1913 달팽이](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1913.%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.md) `S5`
-- 1969 DNA `S5` `👀`
-- 2503 숫자 야구 `S5` `👀`
-- 2607 비슷한 단어 `S4` `👀`
-- 2947 나무 조각 `S5` `👀`
-- 2998 8진수 `S5`
-- 1717 집합의 표현 `G4` `👀`
-- 7568 덩치 `S5` `👀`
-- 10157 자리배정 `S5` `👀`
-- 10974 모든 순열 `S5`
-- 11723 집합 `S5` `👀`
-- 14501 퇴사 `S4` `👀` `★`
+- [2503 숫자 야구](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2503.%20%EC%88%AB%EC%9E%90%20%EC%95%BC%EA%B5%AC.md) `S5` `👀`
+- [2607 비슷한 단어](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2607.%20%EB%B9%84%EC%8A%B7%ED%95%9C%20%EB%8B%A8%EC%96%B4.md) `S4` `👀`
+- [2947 나무 조각](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2947.%20%EB%82%98%EB%AC%B4%20%EC%A1%B0%EA%B0%81.md) `S5` `👀`
+- [2998 8진수](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2988.%208%EC%A7%84%EC%88%98.md) `S5`
+- [7568 덩치](https://github.com/zhsks528/PS/blob/master/BOJ/7001-8000/7568.%20%EB%8D%A9%EC%B9%98.md) `S5` `👀`
+- [10157 자리배정](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10157.%20%EC%9E%90%EB%A6%AC%EB%B0%B0%EC%A0%95.md) `S5` `👀`
+- [10974 모든 순열](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10974.%20%EB%AA%A8%EB%93%A0%20%EC%88%9C%EC%97%B4.md) `S5`
+- [11723 집합](https://github.com/zhsks528/PS/blob/master/BOJ/11001-12000/11723.%20%EC%A7%91%ED%95%A9.md) `S5` `👀`
+- [14501 퇴사](https://github.com/zhsks528/PS/blob/master/BOJ/14001-15000/14501.%20%ED%87%B4%EC%82%AC.md) `S4` `👀` `★`
 
-#### Gold (5)
+#### Gold (6)
+- [1717 집합의 표현](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1717.%20%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84.md) `G4` `👀`
 - [3190 뱀](https://github.com/zhsks528/PS/blob/master/BOJ/3001-4000/3190.%20%EB%B1%80.md) `G5` `👀`
-- 14503 로봇 청소기 `G5` `👀` `★`
-- 14499 주사위 굴리기 `G4` `👀`
-- 15685 드래곤 커브 `G3` `👀`
+- [14503 로봇 청소기](https://github.com/zhsks528/PS/blob/master/BOJ/14001-15000/14503.%20%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0.md) `G5` `👀` `★`
+- [14499 주사위 굴리기](https://github.com/zhsks528/PS/blob/master/BOJ/14001-15000/14499.%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.md) `G4` `👀`
+- [15685 드래곤 커브](https://github.com/zhsks528/PS/blob/master/BOJ/15001-16000/15685.%20%EB%93%9C%EB%9E%98%EA%B3%A4%20%EC%BB%A4%EB%B8%8C.md) `G3` `👀`
 - [15686 치킨 배달](https://github.com/zhsks528/PS/blob/master/BOJ/15001-16000/15686.%20%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC.md) `G4` `👀`
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
@@ -168,10 +167,11 @@
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
-### 큐 (4)
+### 큐 (3)
 #### Silver (2)
 - [1158 요세푸스 문제](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1158.%20%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C.md) `S5` `👀`
 - [1966 프린터 큐](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1966.%20%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.md) `S3` `👀`
+
 #### Gold (1)
 - [2075 N번째 큰 수](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2075.%20N%EB%B2%88%EC%A7%B8%20%ED%81%B0%20%EC%88%98.md) `G4` `👀`
 
@@ -190,7 +190,7 @@
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
 ### 트리 (2)
-#### Silver (1)
+#### Silver (2)
 - [1991 트리 순회](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1991.%20%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C.md) `S1` `👀`
 - [9372 상근이의 여행](https://github.com/zhsks528/PS/blob/master/BOJ/9001-10000/9372.%20%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%97%AC%ED%96%89.md) `S3`
 
@@ -225,14 +225,15 @@
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
-### 완전 탐색 (5)
+### 완전 탐색 (6)
 #### Bronze (3)
 - [2231 분해합](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2231.%20%EB%B6%84%ED%95%B4%ED%95%A9.md) `B2`
 - [2309 일곱 난쟁이](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2309.%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.md) `B2` `👀` `★`
 - [2798 블랙잭](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2798.%20%EB%B8%94%EB%9E%99%EC%9E%AD.md) `B2`
 
-#### Silver (1)
+#### Silver (2)
 - [1065 한수](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1065.%20%ED%95%9C%EC%88%98.md) `S4` `👀`
+- [1969 DNA](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1969.%20DNA.md) `S5` `👀`
 
 #### Gold (1)
 - [1759 암호 만들기](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1759.%20%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) `G4` `👀`
@@ -255,14 +256,15 @@
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
-### 그리디 (13)
+### 그리디 (14)
 #### Bronze (3)
 - [5585 거스름돈](https://github.com/zhsks528/PS/blob/master/BOJ/5001-6000/5585.%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.md) `B2`
 - [10162 전자레인지](https://github.com/zhsks528/PS/blob/master/BOJ/10001-11000/10162.%20%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80.md) `B4`
 - [17224 APC는 왜 서브태스크 대회가 되었을까?](https://github.com/zhsks528/PS/blob/master/BOJ/17001-18000/17224.%20APC%EB%8A%94%20%EC%99%9C%20%EC%84%9C%EB%B8%8C%ED%83%9C%EC%8A%A4%ED%81%AC%20%EB%8C%80%ED%9A%8C%EA%B0%80%20%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C.md) `B1`
 
-#### Silver (9)
+#### Silver (10)
 - [1138 한 줄로 서기](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1138.%20%ED%95%9C%20%EC%A4%84%EB%A1%9C%20%EC%84%9C%EA%B8%B0.md) `S2` `👀`
+- [1439 뒤집기](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1439.%20%EB%92%A4%EC%A7%91%EA%B8%B0.md) `S5` `👀`
 - [1449 수리공 항승](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1449.%20%EC%88%98%EB%A6%AC%EA%B3%B5%20%ED%95%AD%EC%8A%B9.md) `S3` `👀`
 - 1700 멀티탭 스케줄링 `G2` `👀`
 - [1783 병든 나이트](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1783.%20%EB%B3%91%EB%93%A0%20%EB%82%98%EC%9D%B4%ED%8A%B8.md) `S5` `👀`
@@ -323,30 +325,34 @@
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
-### 백트래킹 (6)
-#### Silver (5)
-- [14888 연산자 끼워넣기](https://github.com/zhsks528/PS/blob/master/BOJ/14001-15000/14888.%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.md) `S1` `★` `👀
+### 백트래킹 (7)
+#### Silver (6)
+- [14888 연산자 끼워넣기](https://github.com/zhsks528/PS/blob/master/BOJ/14001-15000/14888.%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.md) `S1` `👀` `★`
 - [14889 스타트와 링크](https://github.com/zhsks528/PS/blob/master/BOJ/14001-15000/14889.%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC.md) `S3` `👀`
 - [15649 N과 M (1)](https://github.com/zhsks528/PS/blob/master/BOJ/15001-16000/15649.%20n%20%EA%B3%BC%20m%20(1).md) `S3`
 - [15650 N과 M (2)](https://github.com/zhsks528/PS/blob/master/BOJ/15001-16000/15650.%20N%EA%B3%BC%20M%20(2).md) `S3`
 - [15651 N과 M (3)](https://github.com/zhsks528/PS/blob/master/BOJ/15001-16000/15651.%20N%EA%B3%BC%20M%20(3).md) `S3`
+- [15658 연산자 끼워넣기 2](https://github.com/zhsks528/PS/blob/master/BOJ/15001-16000/15658.%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0%20(2).md) `S3`
 
 #### Gold (1)
 - 9663 N-Queen `G5` `👀`
 
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
-### 그래프 & BFS/DFS (41)
-#### Silver (16)
+### 그래프 & BFS/DFS (44)
+#### Silver (19)
 - [1012 유기농 배추](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1012.%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.md) `S2` `👀`
 - [1325 효율적인 해킹](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1325.%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%95%B4%ED%82%B9.md) `S2`
 - [1389 케빈 베이컨의 6단계 법칙](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1389.%20%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.md) `S1` `👀`
 - [1697 숨바꼭질](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1697.%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.md) `S1`
+- [1743 음식물 피하기](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1743.%20%EC%9D%8C%EC%8B%9D%EB%AC%BC%20%ED%94%BC%ED%95%98%EA%B8%B0.md) `S1`
+- [1926 그림](https://github.com/zhsks528/PS/blob/master/BOJ/1000-2000/1926.%20%EA%B7%B8%EB%A6%BC.md) `S1`
 - [2178 미로 탐색](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2178.%20%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.md) `S1`
 - [2468 안전 영역](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2468.%20%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD.md) `S1`
 - [2606 바이러스](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2606.%20%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.md) `S3`
 - [2644 촌수 계산](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2644.%20%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0.md) `S2` `👀`
 - [2667 단지번호붙이기](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2667.%20%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.md) `S1` `★`
+- [3184 양](https://github.com/zhsks528/PS/blob/master/BOJ/3001-4000/3184.%20%EC%96%91.md) `S2`
 - [4963 섬의 개수](https://github.com/zhsks528/PS/blob/master/BOJ/4001-5000/4963.%20%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98.md) `S2` `👀`
 - [7562 나이트의 이동](https://github.com/zhsks528/PS/blob/master/BOJ/7001-8000/7562.%20%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.md) `S2` `👀`
 - [7569 토마토](https://github.com/zhsks528/PS/blob/master/BOJ/7001-8000/7569.%20%ED%86%A0%EB%A7%88%ED%86%A0.md) `S1` `👀`
@@ -412,7 +418,6 @@
 [[↑] 맨 위로](https://github.com/zhsks528/PS/tree/master/BOJ#백준-알고리즘-문제)
 
 #### 세그먼트 트리 (1)
-
 #### Gold (1)
 - [2357 최솟값과 최댓값](https://github.com/zhsks528/PS/blob/master/BOJ/2001-3000/2357.%20%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EB%8C%93%EA%B0%92.md) `G5` `👀`
 
