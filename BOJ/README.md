@@ -13,7 +13,7 @@
 3. [완전탐색(6)](https://github.com/zhsks528/PS/tree/master/BOJ#완전-탐색-6) [이분탐색(9)](https://github.com/zhsks528/PS/tree/master/BOJ#이분-탐색-9) 
 4. [그리디(15)](https://github.com/zhsks528/PS/tree/master/BOJ#그리디-15) [DP(38)](https://github.com/zhsks528/PS/tree/master/BOJ#dp-38) [백트래킹(8)](https://github.com/zhsks528/PS/tree/master/BOJ#백트래킹-8) 
 5. [그래프 & BFS/DFS(47)](https://github.com/zhsks528/PS/tree/master/BOJ#그래프--bfsdfs-47) [다익스트라(9)](https://github.com/zhsks528/PS/tree/master/BOJ#다익스트라-9)
-6. [최소 스패닝 트리(MST)(4)](https://github.com/zhsks528/PS/tree/master/BOJ#최소-스패닝-트리-4) [세그먼트 트리(1)](https://github.com/zhsks528/PS/tree/master/BOJ#세그먼트-트리-1)
+6. [최소 스패닝 트리(MST)(4)](https://github.com/zhsks528/PS/tree/master/BOJ#최소-스패닝-트리-4) [세그먼트 트리(1)](#세그먼트-트리-1)
 
 ### 수학 (43)
 #### Bronze (22)
