@@ -8,7 +8,7 @@
 
 ### 목차
 
-1. [수학(43)](https://github.com/zhsks528/PS/tree/master/BOJ#수학-43) [문자열(15)](https://github.com/zhsks528/PS/tree/master/BOJ#문자열-15) [재귀(4)](https://github.com/zhsks528/PS/tree/master/BOJ#재귀-4) [구현 & 시뮬레이션(44)](https://github.com/zhsks528/PS/tree/master/BOJ#%EA%B5%AC%ED%98%84--%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98-44)
+1. [수학(43)](#수학-43) [문자열(15)](https://github.com/zhsks528/PS/tree/master/BOJ#문자열-15) [재귀(4)](https://github.com/zhsks528/PS/tree/master/BOJ#재귀-4) [구현 & 시뮬레이션(44)](https://github.com/zhsks528/PS/tree/master/BOJ#%EA%B5%AC%ED%98%84--%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98-44)
 2. [스택(11)](https://github.com/zhsks528/PS/tree/master/BOJ#스택-11) [큐(3)](https://github.com/zhsks528/PS/tree/master/BOJ#큐-3) [해시(3)](https://github.com/zhsks528/PS/tree/master/BOJ#해시-3) [트리(2)](https://github.com/zhsks528/PS/tree/master/BOJ#트리-2) [정렬(24)](https://github.com/zhsks528/PS/tree/master/BOJ#정렬-24) 
 3. [완전탐색(6)](https://github.com/zhsks528/PS/tree/master/BOJ#완전-탐색-6) [이분탐색(9)](https://github.com/zhsks528/PS/tree/master/BOJ#이분-탐색-9) 
 4. [그리디(15)](https://github.com/zhsks528/PS/tree/master/BOJ#그리디-15) [DP(38)](https://github.com/zhsks528/PS/tree/master/BOJ#dp-38) [백트래킹(8)](https://github.com/zhsks528/PS/tree/master/BOJ#백트래킹-8) 
